@@ -1,4 +1,6 @@
-# Design Workshops - How to design wearable products and be introduced to the area of Science, Technology, Engineering and Math (STEM + A = STEAM)
+# Design Workshops
+
+## How to design wearable products and be introduced to the area of Science, Technology, Engineering and Math (STEM + A = STEAM)
 
 After having the pleasure to participate in the [Swedish maker movement](https://makersofsweden.se) for more than a decade I believe that building a wearable product holds the key to get young persons interested in both product design and technology.
 
