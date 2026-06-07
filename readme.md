@@ -1,6 +1,6 @@
 # Design Workshops
 
-## How to design wearable products and be introduced to the area of Science, Technology, Engineering and Math (STEM + A = STEAM)
+##  How to design wearable products and be introduced to the area of Science, Technology, Engineering and Math (STEM + A = STEAM)
 
 After having the pleasure to participate in the [Swedish maker movement](https://makersofsweden.se) for more than a decade I believe that building a wearable product holds the key to get young persons interested in both product design and technology.
 
@@ -13,12 +13,12 @@ It's a work in progress so feel free to contribute to the workshops or add varia
 
 ## Workshop outline
 
-![Workshop Overview](workshop-overview-map.png)
+![Design Workshops Overview](design-workshops-overview_werables.png)
 
 
 There are two ways to start (left side) the journey towards mastering product design of a Wearable. Then combine the knowledge to design full products (right side)
 
-- **D: Casing & fastener design** - Keep the basic blinking LED and focus on x§the casing design and how to mount it to a person (string, clip, wristband, etc). Choose 3D printed or laser cut depending on what equipment you have at hand.
+- **D: Casing & fastener design** - Keep the basic blinking LED and focus on the casing design and how to mount it to a person (string, clip, wristband, etc). Choose 3D printed or laser cut path depending on what equipment you intend to use (unless fully digital design workshops).
 
 - **E: Programming & electronics** - Skip the casing & use the simplest fastener (string) so you can focus on how to control the behaviour of the light and the electronics
 
