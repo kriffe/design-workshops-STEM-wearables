@@ -1,13 +1,14 @@
 # Design Workshop D1- Assembly LED Charm
 
+Workshop to easily assemble a wearable blinking LED charm. Several variations exist and this is mainly based on [MakerTjej Ljushängen](http://www.makertjej.se/ljushangen)
 
 ## Workshop outline
 
 Being able to assemble a wearable LED charm is an easy and fun way to get someone curious on technology.
 
+Requires a 3D-printed casing (or similar),a C32032 battery, a RGB LED diode and some tape.
 
-![Assemble LED charm](LED-charm-v2-exploded-view.png)
-
+![Assemble LED charm](LED-Charm-workshop-kit-2026.jpg)
 
 ## Equipment
 
@@ -15,7 +16,8 @@ LED RGB 5mm ~3.4V - Fast or slow blinking https://www.electrokit.com/led-rgb-5mm
 
 Battery CR2034 3V - https://www.electrokit.com/cr2032-batteri-litium-3v-varta-20-pack-industri-forpackning
 
-3D-printed casing with lid (see attached files XX & YY)
+3D-printed casing with lid (see desing files under [the folder manufacturing_files](manufacturing_files)
+
 
 String to hang it
 
@@ -44,8 +46,6 @@ Tape
 5. Close the lid
 
 6. Measure out the string to fit around your head and tie it to a neckless with the blinking casing
-
-
 
 
 

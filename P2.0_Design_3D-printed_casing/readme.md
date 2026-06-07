@@ -1,9 +1,11 @@
-# Design Workshop D1- Assembly LED Charm
+# Design Workshop P2.0 - Design your own casing
 
 
 ## Workshop outline
 
-Now you have tested assembling a LED charm you can design a similar casing yourself for 3d-printing
+Now you have tested assembling a LED charm you can design a similar casing yourself for 3d-printing.
+
+Keep the same CR2032 battery and RGB LED diode to keep things simple
 
 
 ## Equipment
@@ -15,15 +17,29 @@ Free CAD software
 
 - Ruler / Caliper to measure
 
+- CR2032 Battery and RGB LED diode to take measurements (and test to assembly)
+
 - 3D printer for testing the design (direct or later)
+
+
 
 ## Preparations
 
-- 3D printed example casings to measure on
-- Battery and LED diode to measure on
+
+- Install CAD sofware or create online account
 
 
 ## Instructions
+
+1. Import [LED-charm-base_N0.8_v11.step](LED-charm-base_N0.8_v11.step) and [LED-charm-top_N0.8_v11.step](LED-charm-top_N0.8_v11.step) to a CAD software to explore the design and potentially modify to your liking
+
+2. Try designing from scratch with a different shape than the pentagon
+
+3. Export step / stl files
+
+4. Slice and print on 3D-printer
+
+5. Assemble with a CR2032 and RGT LED Diode (see [workshop D1](../D1_Assemble_LED_charm/readme.md))
 
 
 ![Example design from Onshape](Parmetric-CAD-design-steps-of-LED-Charm-v2-in-Onshape.gif)
