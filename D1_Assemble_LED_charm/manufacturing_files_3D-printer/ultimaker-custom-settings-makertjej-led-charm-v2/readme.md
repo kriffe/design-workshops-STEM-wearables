@@ -6,7 +6,7 @@ This is a redrawn and updated version of the LED Charm posted by jcnbee: https:/
 
 It has been used on events with the network "Makertjej" (translated "Maker Girls"), Tutorial (in swedish) at: http://www.makertjej.se/ljushangen
 
-It has been optimized to print on the Ultimaker 2 (UM2) with the Olsson Block and a 0.8mm RSB nozzle and a single wall, it requires very custom Cura settings since we more or less are tricking the cura engine in multiple ways to perform a faster print :-)Right now (2015-10-18) the latest version of the "body" part is V11, and the latest version of the "top" part is V9
+It has been optimized to print on the Ultimaker 2 (UM2) with the Olsson Block and a 0.8mm RSB nozzle and a single wall, it requires very custom Cura settings since we more or less are tricking the cura engine in multiple ways to perform a faster print :-) Right now (2015-10-18) the latest version of the "body" part is V11, and the latest version of the "top" part is V9
 
 ### Cura Slicer settings
 
@@ -15,6 +15,8 @@ These are the settings for making the "solid" models work as open contours.
 Nozzle size: 0.8
 Infill Density: 0%
 Top Layers: 0%
+
+See [example video how to print with open top on youtube](https://youtu.be/b5i9m6EUoJE?si=JpcPoquRZF3upQ90) or screenshot below:
 
 ![Example of slicer settings in Cura](Cura_slicing_settings_example_from_online_slicer.png)
 
