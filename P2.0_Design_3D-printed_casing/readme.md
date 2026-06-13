@@ -3,7 +3,7 @@
 
 ## Workshop outline
 
-Now you have tested assembling a LED charm you can design a similar casing yourself for 3d-printing.
+Now you have tested assembling a LED charm you can design a similar casing yourself.
 
 Keep the same CR2032 battery and RGB LED diode to keep things simple
 
@@ -20,6 +20,8 @@ Free CAD software
 - CR2032 Battery and RGB LED diode to take measurements (and test to assembly)
 
 - 3D printer for testing the design (direct or later)
+
+- 3D printer fillament colorless and transparent
 
 
 
