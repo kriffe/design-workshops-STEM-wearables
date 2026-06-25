@@ -2,9 +2,9 @@
 
 ##  How to design wearable products and be introduced to the area of Science, Technology, Engineering and Math (STEM + A = STEAM)
 
-After having the pleasure to participate in the [Swedish maker movement](https://makersofsweden.se) for more than a decade I believe that building a wearable product holds the key to get young persons interested in both product design and technology.
+After having participated in the [Swedish maker movement](https://makersofsweden.se) for more than a decade I believe that building a wearable product holds the key to get people interested in both product design and technology.
 
-My experience is that many get discorages due to starting with way too hard projects. Therefore I have tried to separate the key dimensions of a wearable product (light source, electronics, casing, fastener, diffusor) and create step by step workshops to master them all.
+Many start with way too hard projects and therefore get discouraged from technology and design. Therefore I have tried to separate the key dimensions of a wearable product (light source, electronics, casing, fastener, diffusor) and create step by step workshops to master them all.
 
 It's a work in progress so feel free to contribute to the workshops or add variants.
 
@@ -24,7 +24,7 @@ There are two ways to start (left side) the journey towards mastering product de
 
 
 
-### Where to start (left side of overview) - Play with the wearable technology
+### Start on the left side of the overview - Play with the wearable technology
 
 Start with the D1 workshop and assemble something ready made to get hands on experience of what we are building and be ready for the first steps
 
@@ -34,8 +34,6 @@ Start with the D1 workshop and assemble something ready made to get hands on exp
 ### What you can do when mastering design (right side of overview)
 
 If you master the different workshops you will be better prepared to use all your knowledge to build your own product. This is hard so you need to practice the different aspects of product design before you attempt it.
-
-![Inspirational product image](X6_Combine_learning_and_design_product/X6-Inspiration-image-(AI)-for-wearable-product.jpg)
 
 ### Workshops
 
@@ -56,7 +54,7 @@ If you master the different workshops you will be better prepared to use all you
 
 ## Contribution guidelines
 
-...
+Test, play, feedback and add your own variants
 
 
 

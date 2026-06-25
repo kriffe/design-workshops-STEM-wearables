@@ -17,13 +17,19 @@ Free CAD software
 
 - Ruler / Caliper to measure
 
-- CR2032 Battery and RGB LED diode to take measurements (and test to assembly)
+- [RGB LED5 mm that shifts color](https://www.youtube.com/shorts/PHgVCiKqoHc)
+
+- 3V CR2032 Battery and RGB LED diode to take measurements (and test to assembly)
 
 - Laser Cutter for testing the design (direct or later)
 
 - Plywood sheets 1.5 mm that can be cut easily by a laser
 
-- Plastic sheet 1.5 mm (plexiglas) that can be easily cut by a laser (or manually)
+- Toothpicks (2 mm) to use for joining and hinge
+
+- Glue for wood
+
+- Plastic sheet 3 mm (plexiglas) that can be easily cut/engraved by a laser
 
 
 ## Preparations
@@ -35,7 +41,7 @@ Free CAD software
 ## Instructions
 
 Example design
-![Example design from Onshape](LED-Charm-lasercut-casing.png)
+![Example design from Onshape](Casing_Laser_Cut_4.png)
 
 
 
