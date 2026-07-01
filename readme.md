@@ -4,7 +4,7 @@
 
 After having participated in the [Swedish maker movement](https://makersofsweden.se) for more than a decade I believe that building a wearable product holds the key to get people interested in both product design and technology.
 
-Many start with way too hard projects and therefore get discouraged from technology and design. Therefore I have tried to separate the key dimensions of a wearable product (light source, electronics, casing, fastener, diffusor) and create step by step workshops to master them all.
+Many beginners start with way too hard projects and therefore fail and get discouraged from technology and design. Therefore I have tried to separate the key dimensions of a wearable product (light source, energy, control, casing, fastener, diffusor) and create step by step workshops to master them all.
 
 It's a work in progress so feel free to contribute to the workshops or add variants.
 
