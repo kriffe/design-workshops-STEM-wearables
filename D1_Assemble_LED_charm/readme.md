@@ -28,7 +28,7 @@ Tape
 
 - 3D-print the casing and test that lid and casing fit
 
-- Purchase LED RGT:s, batteries, strings and tape
+- Purchase LED RGB:s, batteries, strings and tape
 
 - Print / write down instructions for the participants
 
