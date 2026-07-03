@@ -10,10 +10,7 @@ Keep the same CR2032 battery and RGB LED diode to keep things simple
 
 ## Equipment
 
-Free CAD software
-- [Onshape](https://www.onshape.com/)
-- [Freecad](https://www.freecad.org/) 
-- [Shapr3D](https://www.shapr3d.com/)
+- A free CAD software like [Onshape](https://www.onshape.com/), [Freecad](https://www.freecad.org/), [Shapr3D](https://www.shapr3d.com/)
 
 - Ruler / Caliper to measure
 
