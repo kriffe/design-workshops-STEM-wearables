@@ -24,7 +24,7 @@ It's a work in progress so feel free to contribute to the workshops or add varia
 | Lasercut | [L2.0 - Design lasercut casing](L2.0_Design_lasercut_casing/readme.md)   | L2.5 - Productify casing   |
 | Lasercut | L3.0 - Design lasercut fastener | L3.5 - Productify fastener |
 | Lasercut | L4.0 - Design lasercut diffusor | P4.5 - Productify diffusor |
-| Electronics | E2.0 - Program 1D LED | E2.5 - Productify 1D LED |
+| Electronics | [E2.0 - Program 1D LED](E2.0_Program_1D_LED_strip/readme.md) | E2.5 - Productify 1D LED |
 | Electronics | E3.0 - Assemble Electronics | E3.5 - Productify Assembled Electronics |
 | Electronics | E4.0 - Program 2D LED display | E4.5 - Productify 2D LED display |
 | Goal | X6 - Combine Casing and Electronics | X6.5 - Productify |
