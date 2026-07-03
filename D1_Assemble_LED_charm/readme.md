@@ -16,7 +16,7 @@ LED RGB 5mm ~3.4V - Fast or slow blinking https://www.electrokit.com/led-rgb-5mm
 
 Battery CR2034 3V - https://www.electrokit.com/cr2032-batteri-litium-3v-varta-20-pack-industri-forpackning
 
-3D-printed casing with lid (see design & manufacturing files under the [manufacturing_files_3D-printer](manufacturing_files-3D-printer) folder)
+3D-printed casing with lid (see design & manufacturing files under the [manufacturing_files_3D-printer](manufacturing_files_3D-printer/readme.md) folder)
 
 
 String to fasten the charm
