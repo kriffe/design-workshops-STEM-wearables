@@ -26,7 +26,7 @@ Tape
 
 ## Preparations
 
-- 3D-print the casing and test that lid and casing fit
+- 3D-print the casing and test that lid and casing fit [https://youtu.be/d-k9be3gT9I](See 3D-printer in action)
 
 - Purchase LED RGB:s, batteries, strings and tape
 
