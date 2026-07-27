@@ -18,7 +18,7 @@ It's a work in progress so feel free to contribute to the workshops or add varia
 
 | Category | Explore | Productify | Status |
 | -------- | -------- | -------- | -------- |
-| Start | [D1 - Assembly your first wearable](D1_Assemble_LED_charm/readme.md) | Not needed |  |
+| Start | [A1 - Assembly your first wearable](A1_Assemble_LED_charm/readme.md) | Not needed |  |
 | 3D-print | [P2.0 - Design 3D-printed casing](P2.0_Design_3D-printed_casing/readme.md) | P2.5 - Productify 3D-printed casing |   |
 | 3D-print | P3.0 - Design 3D-printed diffusor | P3.5 - Productify diffusor |  WIP |
 | 3D-print | P4.0 - Design 3D-printed fastener | P4.5 - Productify fastener | WIP |

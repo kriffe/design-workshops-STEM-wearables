@@ -38,9 +38,9 @@ Keep the same CR2032 battery and RGB LED diode to keep things simple
 3. Export 3D stl files that the 3D printer Slicer software can import
 
 4. Slice the 3D files and print on 3D-printer (Use [Cura](https://ultimaker.com/software/ultimaker-cura/) or similar)
-![Slicer preview of LED Charm](../D1_Assemble_LED_charm/manufacturing_files_3D-printer/LED-charm-base_N0.8_v12_slicing_preview_Cura.gif)
+![Slicer preview of LED Charm](../A1_Assemble_LED_charm/manufacturing_files_3D-printer/LED-charm-base_N0.8_v12_slicing_preview_Cura.gif)
 
-5. Assemble with a CR2032 and RGB LED Diode (see [workshop D1](../D1_Assemble_LED_charm/readme.md))
+5. Assemble with a CR2032 and RGB LED Diode (see [workshop A1](../A1_Assemble_LED_charm/readme.md))
 
 
 
