@@ -2,11 +2,11 @@
 
 ##  How to design wearable products and be introduced to the area of Science, Technology, Engineering and Math (STEM + A = STEAM)
 
-After having participated in the [Swedish maker movement](https://makersofsweden.se) for more than a decade I believe that building a wearable product is the best way to get young people interested in both product design and technology. Therefore theese workshops have been created.
+I believe that designing a wearable products can be one of the best ways to introduce you people to product design and technology. Therefore theese workshops have been created to play and learn in steps towards mastering product design.
 
-Many beginners start with way too hard projects and therefore fail and get discouraged from technology and design. It's essential to start simple.
+It starts with just assmebling a blinking RGB LED and a CR2032 battery with some tape in a small casing (D1), which enables even small children to build their own blinking necklace in minutes. And then builds from there.
 
-The key aspects of designing a wearable product (light source, energy, control, casing, fastener, diffusor) are here separated into different paths which all are possible to start with a basic complexity level.
+The key aspects of designing a wearable product (light source, energy, control, casing, fastener, diffusor) are here separated into different paths which all are possible to start at a low level of complexity on each aspect.
 
 It's a work in progress so feel free to contribute to the workshops or add variants.
 
@@ -31,7 +31,6 @@ It's a work in progress so feel free to contribute to the workshops or add varia
 | Goal | X6 - Combine Casing and Electronics | X6.5 - Productify | - |
 
 
-
 ## Workshop outline
 
 
@@ -40,19 +39,6 @@ There are two ways to start (left side) the journey towards mastering product de
 - **D: Casing & fastener design** - Keep the basic blinking LED and focus on the casing design and how to mount it to a person (string, clip, wristband, etc). Choose 3D printed or laser cut path depending on what equipment you intend to use (unless fully digital design workshops).
 
 - **E: Programming & electronics** - Skip the casing & use the simplest fastener (string) so you can focus on how to control the behaviour of the light and the electronics
-
-
-
-### Start on the left side of the overview - Play with the wearable technology
-
-Start with the D1 workshop and assemble something ready made to get hands on experience of what we are building and be ready for the first steps
-
-![Assemble LED charm](D1_Assemble_LED_charm/LED-charm-v2-exploded-view.png)
-
-
-### What you can do when mastering design (right side of overview)
-
-If you master the different workshops you will be better prepared to use all your knowledge to build your own product. This is hard so you need to practice the different aspects of product design before you attempt it.
 
 
 
