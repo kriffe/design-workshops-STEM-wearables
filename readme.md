@@ -31,7 +31,7 @@ It's a work in progress so feel free to contribute to the workshops or add varia
 | Goal | X6 - Combine Casing and Electronics | X6.5 - Productify | - |
 
 
-## Workshop outline
+### Workshop outline
 
 
 There are two ways to start (left side) the journey towards mastering product design of a Wearable. Then combine the knowledge to design full products (right side)
@@ -41,10 +41,34 @@ There are two ways to start (left side) the journey towards mastering product de
 - **E: Programming & electronics** - Skip the casing & use the simplest fastener (string) so you can focus on how to control the behaviour of the light and the electronics
 
 
+## Key concepts for the product design process
+
+The role of the designer is to keep asking the right questions and thinking about different aspects about the product. And when entering uncharted terretory you need to take development in steps and iterate step by step. 
+
+This takes training and the ability to mix imagination and hands on test things. 
+
+A good description of the work of a designer was apperantly said by Steve Jobs at Apple:
+
+> Designing a product is keeping 5,000 things in your brain, these concepts, and fitting them all together in kind of continuing to push to fit them together in new and different ways to get what you want. - Steve Jobs
+
+For these werable workshops I hope it should be enough to keep about 7 things in your brain:
+
+- How should the product appear to the user (light, shape, behaviour)?
+- How should the user wear the product?
+- How should the user take the product on / off
+- How should the user turn the product on / off
+- How should the light, battery and controller stay together?
+- How should the product be manufactured?
+- How should the product be assembled?
+
+And for a real product you also need to include
+- What is the total cost of the product (material, manufacturing, assembly, handling, shipping, etc)?
+- What happens to the product when it breaks down (repair, recycle)? 
+
 
 ### Key concepts of a wearable product that emit light
 
-**Light source:** Something that emits colored light can really help a wearable thing to be interesting. Start with a blinking LED RGB that just needs 3V to get going.
+**Light source:** Something that emits light can really help a wearable thing to be interesting. Start with a blinking LED RGB that just needs 3V to get going.
 
 **Diffusor:** Design the way the light spread and appears to someone wathcing it. Start with a matte transparent plastic.
 
@@ -55,8 +79,6 @@ There are two ways to start (left side) the journey towards mastering product de
 **Fastener:** Make it possible for the user to wear the product on their body. Start with a string to use as a necklace.
 
 **Controls:** Design the behaviour of the light. Start with a predetermined blinking or controling a single diode with a micro processor.
-
-
 
 ## Contribution guidelines
 
