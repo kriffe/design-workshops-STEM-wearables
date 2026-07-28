@@ -4,7 +4,7 @@
 
 I believe that designing a wearable products can be one of the best ways to introduce you people to product design and technology. Therefore theese workshops have been created to play and learn in steps towards mastering product design.
 
-It starts with just assmebling a blinking RGB LED and a CR2032 battery with some tape in a small casing (D1), which enables even small children to build their own blinking necklace in minutes. And then builds from there.
+It starts with just assmebling a blinking RGB LED and a CR2032 battery with some tape in a small casing (A1), which enables even small children to build their own blinking necklace in minutes. And then builds from there.
 
 The key aspects of designing a wearable product (light source, energy, control, casing, fastener, diffusor) are here separated into different paths which all are possible to start at a low level of complexity on each aspect.
 
@@ -21,7 +21,7 @@ It's a work in progress so feel free to contribute to the workshops or add varia
 | Start | [A1 - Assembly your first wearable](A1_Assemble_LED_charm/readme.md) | Not needed |  |
 | 3D-print | [P2.0 - Design 3D-printed casing](P2.0_Design_3D-printed_casing/readme.md) | P2.5 - Productify 3D-printed casing |   |
 | 3D-print | P3.0 - Design 3D-printed diffusor | P3.5 - Productify diffusor |  WIP |
-| 3D-print | P4.0 - Design 3D-printed fastener | P4.5 - Productify fastener | WIP |
+| 3D-print | [P4.0 - Design 3D-printed fastener](P4.0_Design_3D-printed_fastener/readme.md) | P4.5 - Productify fastener | WIP |
 | Lasercut | [L2.0 - Design lasercut casing](L2.0_Design_lasercut_casing/readme.md)   | L2.5 - Productify casing   | draft |
 | Lasercut | L3.0 - Design lasercut diffusor | P3.5 - Productify diffusor | - |
 | Lasercut | L4.0 - Design lasercut fastener | L4.5 - Productify fastener | - |

@@ -1,4 +1,4 @@
-# Design Workshop D1- Assembly LED Charm
+# Design Workshop A1- Assembly LED Charm
 
 Workshop to easily assemble a wearable blinking LED charm. Several variations exist and this is mainly based on [MakerTjej Ljushängen](http://www.makertjej.se/ljushangen)
 
@@ -14,7 +14,7 @@ Requires a 3D-printed casing (or similar), a C32032 battery, a RGB LED diode and
 
 LED RGB 5mm ~3.4V - Fast or slow blinking https://www.electrokit.com/led-rgb-5mm-diffus-blinkande-snabb
 
-Battery CR2034 3V - https://www.electrokit.com/cr2032-batteri-litium-3v-varta-20-pack-industri-forpackning
+Battery CR2032 3V - https://www.electrokit.com/cr2032-batteri-litium-3v-varta-20-pack-industri-forpackning
 
 3D-printed casing with lid (see design & manufacturing files under the [manufacturing_files_3D-printer](manufacturing_files_3D-printer/readme.md) folder)
 
