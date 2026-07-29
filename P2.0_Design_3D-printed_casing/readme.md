@@ -3,9 +3,13 @@
 
 ## Workshop outline
 
-Now you have tested assembling a LED charm you can design a similar casing yourself.
+Now you have tested assembling a LED charm you can design a similar casing yourself. Keep the same CR2032 battery and RGB LED diode to keep things simple. Start from scratch or reuse previous model.
 
-Keep the same CR2032 battery and RGB LED diode to keep things simple
+**Design Questions to answer during workshop:**
+
+(I) How should the product appear to the user (light, shape, behaviour)?
+
+(V) How should the light, battery and controller stay together?
 
 
 ## Equipment
@@ -14,7 +18,7 @@ Keep the same CR2032 battery and RGB LED diode to keep things simple
 
 - Ruler / Caliper to measure
 
-- CR2032 Battery and RGB LED diode to take measurements (and test to assembly)
+- CR2032 Battery (3.2x20mm) and RGB LED diode (6mm) to take measurements (and test to assembly)
 
 - 3D printer for testing the design (direct or later)
 

@@ -6,6 +6,15 @@ Designing a fastener for a wearable depends how you want to carry it
 - Wrist needs a band that can be opened / closed (or temporary enlarged)
 - Cloothing needs a clip
 
+In this workshop we will focus on the wrist band and how that can be achieved.
+
+**Design Questions to answer during workshop:**
+
+(II) How should the user wear the product?
+
+(III) How should the user take the product on / off
+
+
 
 ## Workshop Outline
 

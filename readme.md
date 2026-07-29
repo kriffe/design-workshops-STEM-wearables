@@ -53,13 +53,13 @@ A good description of the work of a designer was apperantly said by Steve Jobs a
 
 For these werable workshops I hope it should be enough to keep about 7 things in your brain:
 
-- How should the product appear to the user (light, shape, behaviour)?
-- How should the user wear the product?
-- How should the user take the product on / off
-- How should the user turn the product on / off
-- How should the light, battery and controller stay together?
-- How should the product be manufactured?
-- How should the product be assembled?
+(I) How should the product appear to the user (light, shape, behaviour)?
+(II) How should the user wear the product?
+(III) How should the user take the product on / off
+(IV) How should the user turn the product on / off
+(V) How should the light, battery and controller stay together?
+(VI) How should the product be manufactured?
+(VII) How should the product be assembled?
 
 And for a real product you also need to include
 - What is the total cost of the product (material, manufacturing, assembly, handling, shipping, etc)?
