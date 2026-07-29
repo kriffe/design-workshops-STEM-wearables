@@ -17,6 +17,8 @@ Target audience: 7-17 year old with little or no experience in design or electro
 
 Each workshop requires some preparations by a supervisor with some basic experience in how to operate a 3D-printer/laser cutter and electronics.
 
+Focus areas: Geometry, Electronics, Optics, Manufacturing 
+
 
 ![Design Workshops Overview](design-workshops-overview_werables.png)
 
