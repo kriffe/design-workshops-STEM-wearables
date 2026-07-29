@@ -18,21 +18,24 @@ LED RGB 5mm ~3.4V - Fast or slow blinking
 
 Battery CR2032 3V (20mm x 3.2mm)
 
-15mm wide Velcro band
+15mm band for wrist (paper band + hair clip, or real velcro)
 
 3D-printer & transparent PLA material
 
 
 ## Instructions
 
-1. Open your favorite CAD software and design (or reuse) a casing that fits a CR2032 battery
+1. Open your favorite CAD software and design (or reuse) a casing that fits a CR2032 battery. Example design available as step files: [body](wrist-band-LED-charm-body-v1.step) and [lid](wrist-band-LED-charm-lid-v1.step)
 
 2. Add side flanges to the casing so that a band can be tied through
 
 ![Concept with 15mm wrist band mounts design](wrist-band-LED-charm-3D-printed-casing.png)
 
-3. Slice and 3D-print it to see how it fits
-
-
+3. Slice and 3D-print the casing and test to assemble a diode and a battery
 
 ![Concept with 15mm wrist band mounts printed](wrist-band-print-20260728.png)
+
+4. Build a wrist band from paper or velcro and test assemble to wrist
+
+![Concept with 15mm wrist band](wrist-band-LED-charm-paper-band.jpg)
+![Concept with 15mm wrist band lock](wrist-band-LED-charm-hair-clip-lock.png)
