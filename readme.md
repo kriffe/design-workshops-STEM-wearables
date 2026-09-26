@@ -25,8 +25,8 @@ Focus areas: Geometry, Electronics, Optics, Manufacturing
 
 | Category | Explore | Productify | Status |
 | -------- | -------- | -------- | -------- |
-| Start | [A1 - Assembly your first wearable](A1_Assemble_LED_charm/readme.md) | Not needed |  |
-| 3D-print | [P2.0 - Design 3D-printed casing](P2.0_Design_3D-printed_casing/readme.md) | P2.5 - Productify 3D-printed casing |   |
+| Start | [A1 - Assembly your first wearable](A1_Assemble_LED_charm/readme.md) | Not needed |  Ready |
+| 3D-print | [P2.0 - Design 3D-printed casing](P2.0_Design_3D-printed_casing/readme.md) | P2.5 - Productify 3D-printed casing |  Ready |
 | 3D-print | P3.0 - Design 3D-printed diffusor | P3.5 - Productify diffusor |  WIP |
 | 3D-print | [P4.0 - Design 3D-printed fastener](P4.0_Design_3D-printed_fastener/readme.md) | P4.5 - Productify fastener | WIP |
 | Lasercut | [L2.0 - Design lasercut casing](L2.0_Design_lasercut_casing/readme.md)   | L2.5 - Productify casing   | draft |
