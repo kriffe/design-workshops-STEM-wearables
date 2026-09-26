@@ -2,7 +2,7 @@
 
 ##  How to design wearable products and be introduced to the area of Science, Technology, Engineering and Math (STEM + A = STEAM)
 
-I believe that designing a wearable products can be one of the best ways to introduce you people to product design and technology. Therefore theese workshops have been created to play and learn in steps towards mastering product design.
+I believe that designing a wearable products can be one of the best ways to introduce people to product design and technology. Therefore theese workshops have been created to play and learn in steps towards mastering product design.
 
 It starts with just assmebling a blinking RGB LED and a CR2032 battery with some tape in a small casing (A1), which enables even small children to build their own blinking necklace in minutes. And then builds from there.
 
