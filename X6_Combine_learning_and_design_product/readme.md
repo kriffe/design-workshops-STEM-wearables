@@ -11,7 +11,8 @@ Combining both the casing design (laser or 3D-printed) with a programmed behavio
 - Controller: Microbit controller
 - Casing: Lasercut plywood and plexi mounted with skewers.
 - Battery: Two AAA fastened to the wrist fastener
-- Basic wrist fastener: Old sock as elastic wrist band for first use
+- Basic wrist fastener: Elastic textile (section of old sock, etc)
 
 Draft
 ![Wrist Concept for Microbit](Wrist_casing_concept_for_Microbit.png)
+![Wrist Concept for Microbit mounted](Wrist_casing_concept_for_Microbit_mounted.png)
