@@ -8,6 +8,8 @@ Combining both the casing design (laser or 3D-printed) with a programmed behavio
 
 **Concept for Microbit casing.**
 
+The Microbit is a bit large to wear on a small wrist, but the principles for making it a wearable still works.
+
 - Controller: Microbit controller
 - Casing: Lasercut plywood and plexi mounted with skewers.
 - Battery: Two AAA fastened to the wrist fastener
