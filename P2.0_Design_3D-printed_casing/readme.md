@@ -34,6 +34,14 @@ Now you have tested assembling a LED charm you can design a similar casing yours
 
 ## Instructions
 
+The Casing needs to fit a Battery CR2032 (20mm x 3.2mm) and a RGB LED (6 mm diameter) so use that as the primary. 
+
+STEP file for battery and LED can be downloaded her for use in CAD: [Battery_CR2032_and_LED.step](Battery_CR2032_and_LED.step)
+
+
+![CR2032 and LED dimensions](Battery_CR2032_and_LED.png)
+
+
 1. Import [LED-charm-base_N0.8_v12.step](LED-charm-base_N0.8_v12.step) and [LED-charm-top_N0.8_v12.step](LED-charm-top_N0.8_v12.step) to a CAD software to explore the design and potentially modify to your liking
 
 2. Try designing from scratch as a pentagon, or a different shape of your liking.

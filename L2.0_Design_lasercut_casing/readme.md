@@ -40,7 +40,16 @@ Free CAD software
 
 ## Instructions
 
+The Casing needs to fit a Battery CR2032 (20mm x 3.2mm) and a RGB LED (6 mm diameter) so use that as the primary. 
+
+STEP file for battery and LED can be downloaded her for use in CAD: [Battery_CR2032_and_LED.step](../P2.0_Design_3D-printed_casing/Battery_CR2032_and_LED.step)
+
+
+![CR2032 and LED dimensions](../P2.0_Design_3D-printed_casing/Battery_CR2032_and_LED.png)
+
+
 Example design
+
 ![Example design from Onshape](Casing_Laser_Cut_4.png)
 
 
