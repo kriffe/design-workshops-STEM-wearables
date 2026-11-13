@@ -1,4 +1,4 @@
-# Design Workshop P2.0 - Design your own casing
+# Design Workshop L2.0 - Design your own casing (lasercut)
 
 
 ## Workshop outline
