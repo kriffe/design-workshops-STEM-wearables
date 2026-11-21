@@ -42,7 +42,7 @@ STEP file for battery and LED can be downloaded her for use in CAD: [Battery_CR2
 ![CR2032 and LED dimensions](Battery_CR2032_and_LED.png)
 
 
-1. Import [LED-charm-base_N0.8_v14.step](LED-charm-base_N0.8_v14.step) and [LED-charm-top_N0.8_v14.step](LED-charm-top_N0.8_v14.step) to a CAD software to explore the design and potentially modify to your liking
+1. Import [LED-charm-base_N0.8_v15.step](LED-charm-base_N0.8_v15.step) and [LED-charm-top_N0.8_v15.step](LED-charm-top_N0.8_v15.step) to a CAD software to explore the design and potentially modify to your liking
 
 2. Try designing from scratch as a pentagon, or a different shape of your liking.
 ![Example design from Onshape](Parmetric-CAD-design-steps-of-LED-Charm-v2-in-Onshape.gif)
