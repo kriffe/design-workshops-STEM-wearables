@@ -14,8 +14,8 @@ Total 43 layers
 Typical print on Ultimaker 2: 10x base + 10x top in ~60 minutes
 
 
-[LED-charm-base_N0.8_v15.stl](LED-charm-base_N0.8_v15.stl)
+[LED-charm-base_N0.8_v16.stl](LED-charm-base_N0.8_v16.stl)
 
-[LED-charm-top_N0.8_v15.stl](LED-charm-top_N0.8_v15.stl)
+[LED-charm-top_N0.8_v16.stl](LED-charm-top_N0.8_v16.stl)
 
 
