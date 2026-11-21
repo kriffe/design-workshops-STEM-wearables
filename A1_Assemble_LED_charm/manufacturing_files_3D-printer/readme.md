@@ -11,7 +11,7 @@ Nozzle size 0.8 mm (same as wall thickness for fastest print)
 Layer height: 0.25 mm (start layer 0.3 mm)
 Material: Transparent PLA
 Total 43 layers
-Typical print on Ultimaker 2: 10 base + top kits in 45 minutes
+Typical print on Ultimaker 2: 10x base + 10x top in ~60 minutes
 
 
 [LED-charm-base_N0.8_v15.stl](LED-charm-base_N0.8_v15.stl)
