@@ -22,19 +22,19 @@ Focus areas: Geometry, Electronics, Optics, Manufacturing
 ![Design Workshops Overview](design-workshops-overview_werables.png)
 
 
-| Category | Explore | Productify | Status |
-| -------- | -------- | -------- | -------- |
-| Start | [A1 - Assembly your first wearable](A1_Assemble_LED_charm/readme.md) | - |  Ready |
-| 3D-print | [P2.0 - Design 3D-printed casing](P2.0_Design_3D-printed_casing/readme.md) | P2.5 - Productify 3D-printed casing |  Ready |
-| 3D-print | P3.0 - Design 3D-printed diffusor | P3.5 - Productify diffusor |  WIP |
-| 3D-print | [P4.0 - Design 3D-printed fastener](P4.0_Design_3D-printed_fastener/readme.md) | P4.5 - Productify fastener | WIP |
-| Lasercut | [L2.0 - Design lasercut casing](L2.0_Design_lasercut_casing/readme.md)   | L2.5 - Productify casing   | draft |
-| Lasercut | L3.0 - Design lasercut diffusor | P3.5 - Productify diffusor | - |
-| Lasercut | L4.0 - Design lasercut fastener | L4.5 - Productify fastener | - |
-| Electronics | [E2.0 - Program LED](E2.0_Program_LED/readme.md) | [E2.5 - Productify LED](E2.5_Productify_LED/readme.md) | draft |
-| Electronics | E3.0 - Assemble Electronics | E3.5 - Productify Assembled Electronics | - |
-| Electronics | E4.0 - Program Behaviours | E4.5 - Productify Behaviours | - |
-| Final | X6 - Combine Casing and Electronics | X6.5 - Productify | - |
+| Category | Workshop | Status |
+| -------- | -------- | -------- |
+| Start | [A1 - Assembly your first wearable](A1_Assemble_LED_charm/readme.md) | Ready |
+| 3D-print | [P2.0 - Design 3D-printed casing](P2.0_Design_3D-printed_casing/readme.md) |  Ready |
+| 3D-print | P3.0 - Design 3D-printed diffusor | WIP |
+| 3D-print | [P4.0 - Design 3D-printed fastener](P4.0_Design_3D-printed_fastener/readme.md) | WIP |
+| Lasercut | [L2.0 - Design lasercut casing](L2.0_Design_lasercut_casing/readme.md)   | draft |
+| Lasercut | L3.0 - Design lasercut diffusor |  - |
+| Lasercut | L4.0 - Design lasercut fastener |  - |
+| Electronics | [E2.0 - Program LED](E2.0_Program_LED/readme.md) | draft |
+| Electronics | E3.0 - Assemble Electronics | - |
+| Electronics | E4.0 - Program Behaviours |  - |
+| Final | X5.0 - Combine Casing and Electronics  | - |
 
 ---
 
