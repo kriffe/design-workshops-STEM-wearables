@@ -1,10 +1,10 @@
-# Design Workshops - STEM + A
+# Design Workshops: STEM + A
 
-I believe that designing a wearable products can be one of the **best ways to introduce people to product design and technology (STEM)**. Therefore theese workshops have been created to play and learn in steps towards mastering product design.
+I believe that designing a wearable products can be one of the **best ways to introduce people to product design and technology ([STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics))**. Therefore theese workshops have been created to play and learn in steps towards mastering product design.
 
-The workshops starts with just assmebling a blinking RGB LED and a CR2032 battery with some tape in a small casing (A1) and then increasing in complexity.
+The workshops starts with just assmebling a blinking RGB LED and a CR2032 battery with some tape in a small casing (A1).
 
-The key aspects of designing a wearable product (light source, energy, control, casing, fastener, diffusor) has been separated into different workshop paths which can be taken in steps, mixed around and combined at the end.
+The following workshops focus on different key aspects of designing a wearable products like light source, energy, control, casing, fastener, diffusor. Different workshop paths exist depending on interest and steps can be mixed around and combined at the end.
 
 It's a work in progress so feel free to contribute to the workshops or add variants.
 
